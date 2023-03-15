@@ -1,0 +1,17 @@
+# ninja log v5
+5	1094	7003459514269319	CMakeFiles/Social_Network___C.dir/main.cpp.obj	7abb997555ccea85
+33	1404	7003459517407130	CMakeFiles/Social_Network___C.dir/Service/Chat.cpp.obj	e032c8ae87981c9d
+998	1583	7003459632725346	Social_Network___C.exe	d7e1aa29eb5774e6
+11	1215	7003459515523655	CMakeFiles/Social_Network___C.dir/Domain/Event.cpp.obj	8ec217fec5a4131e
+16	1237	7003459515679903	CMakeFiles/Social_Network___C.dir/Domain/User.cpp.obj	dbf6bf72165bddb2
+2	316	7006100405015559	build.ninja	6c2d1bde769f3a1c
+6	998	7003459626919105	CMakeFiles/Social_Network___C.dir/UserInterface/UserInterface.cpp.obj	92160bef224dc4a0
+27	1784	7003459521180204	CMakeFiles/Social_Network___C.dir/Service/Network.cpp.obj	d078fc5f6a702bfb
+2	388	7006100405015559	build.ninja	6c2d1bde769f3a1c
+6	525	7006100410951164	CMakeFiles/Social_Network___C.dir/main.cpp.obj	7abb997555ccea85
+18	690	7006100412588807	CMakeFiles/Social_Network___C.dir/Domain/Event.cpp.obj	8ec217fec5a4131e
+14	736	7006100413065138	CMakeFiles/Social_Network___C.dir/Domain/User.cpp.obj	dbf6bf72165bddb2
+10	830	7006100414011671	CMakeFiles/Social_Network___C.dir/UserInterface/UserInterface.cpp.obj	92160bef224dc4a0
+27	856	7006100414257278	CMakeFiles/Social_Network___C.dir/Domain/Chat.cpp.obj	13d4e17ef62b065c
+22	1082	7006100416520516	CMakeFiles/Social_Network___C.dir/Service/Network.cpp.obj	d078fc5f6a702bfb
+1082	1423	7006100419906419	Social_Network___C.exe	b4c0bf7c2d89c5ea

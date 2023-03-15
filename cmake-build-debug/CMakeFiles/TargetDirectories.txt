@@ -1,0 +1,3 @@
+C:/claudiu/Proiecte personale/Social-Network---C/cmake-build-debug/CMakeFiles/Social_Network___C.dir
+C:/claudiu/Proiecte personale/Social-Network---C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/claudiu/Proiecte personale/Social-Network---C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
